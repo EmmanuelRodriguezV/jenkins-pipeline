@@ -17,6 +17,7 @@ function App() {
         >
           this  is another build
         </a>
+        <h2>Mira este h2</h2>
       </header>
     </div>
   );
